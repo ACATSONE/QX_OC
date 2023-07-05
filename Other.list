@@ -1,9 +1,5 @@
 # NAME: Streaming国际媒体
 # 改编于by.墨鱼Streaming
-# (Live)
-# > Twitch
-DOMAIN-KEYWORD,twitch
-
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*
