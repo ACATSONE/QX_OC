@@ -2,7 +2,6 @@
 # 改编于by.墨鱼Streaming
 # (Music)
 # > Deezer
-USER-AGENT,Deezer*
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
 # > JOOX
